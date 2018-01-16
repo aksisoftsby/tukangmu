@@ -3,8 +3,6 @@ title: "TukangMu"
 description: "Cari Tukang Professional Terpercaya"
 url: https://aksisoftsby.github.io/tukangmu/
 
-domain: https://aksisoftsby.github.io/tukangmu/
-
 plugins:
   - jekyll-avatar
   - jekyll-redirect-from
