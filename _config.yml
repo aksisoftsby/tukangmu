@@ -1,0 +1,9 @@
+# global settings
+title: "TukangMu"
+description: "Cari Tukang Professional Terpercaya"
+url: http://demo.tukangmu.com
+
+plugins:
+  - jekyll-avatar
+  - jekyll-redirect-from
+  - jekyll-seo-tag
