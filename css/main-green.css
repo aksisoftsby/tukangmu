@@ -433,7 +433,7 @@ a:after, a:before, .btn.btn-primary i,
 }
 
 .services .overlay {
-	background-color: #0EC244;
+	background-color: rgba(14, 194, 68, 0.85);
 	-webkit-transition: all 0.4s ease-in-out;
 	-moz-transition: all 0.4s ease-in-out;
 	-ms-transition: all 0.4s ease-in-out;
@@ -442,7 +442,7 @@ a:after, a:before, .btn.btn-primary i,
 }
 
 .service:hover .overlay {
-	background-color: #0EC244;
+	background-color: rgba(14, 194, 68, 0.99);
 }
 
 .box-title {
