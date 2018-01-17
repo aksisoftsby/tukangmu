@@ -608,7 +608,7 @@ a:after, a:before, .btn.btn-primary i,
 }
 
 .carousel-left i:hover, .carousel-right i:hover {
-	background-color: rgba(239, 187, 32, 0.85);
+	background-color: rgba(14, 194, 68, 0.85);
 }
 
 .home-section:hover .carousel-left i {
