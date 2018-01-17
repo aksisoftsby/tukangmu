@@ -818,7 +818,7 @@ a:after, a:before, .btn.btn-primary i,
 	display:block;
 	text-align: center;
 	color: #fff;
-	background-color: #f3cc29;
+	background-color: #0EC244;
 }
 
 .portfolio-section .owl-prev {
@@ -1040,7 +1040,7 @@ a:after, a:before, .btn.btn-primary i,
 }
 
 .testimonial h5 {
-	color: #f3cc29;
+	color: #0EC244;
 	font-size: 13px;
 	margin-top: 15px;
 }
@@ -1089,8 +1089,8 @@ a:after, a:before, .btn.btn-primary i,
 
 .testimonial-slider .owl-dots .owl-dot.active span, 
 .testimonial-slider .owl-dots .owl-dot:hover span {
-	background-color: #f3cc29;
-	border: 1px solid #f3cc29;
+	background-color: #0EC244;
+	border: 1px solid #0EC244;
 }
 
 
