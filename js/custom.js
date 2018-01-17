@@ -5,7 +5,7 @@ jQuery(function ($) {
   // -------------------------------------------------------------
   (function () {
     //backstretch slide for main body
-    $(".home-section").backstretch(["{{site.url}}/images/bg/1.jpg", "images/bg/2.jpg", "images/bg/3.jpg"], {fade: 750, duration: 3000});
+    $(".home-section").backstretch(["images/bg/1.jpg?v=1", "images/bg/2.jpg?v=1", "images/bg/3.jpg?v=1"], {fade: 750, duration: 3000});
   }());
 
   // -------------------------------------------------------------
